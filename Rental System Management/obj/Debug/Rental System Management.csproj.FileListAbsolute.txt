@@ -1,0 +1,15 @@
+C:\Users\SoNiC\Desktop\Rental System Management\bin\Debug\Rental System Management.exe.config
+C:\Users\SoNiC\Desktop\Rental System Management\bin\Debug\Rental System Management.exe
+C:\Users\SoNiC\Desktop\Rental System Management\bin\Debug\Rental System Management.pdb
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental System Management.csproj.AssemblyReference.cache
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.Form1.resources
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.Properties.Resources.resources
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental System Management.csproj.GenerateResource.cache
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental System Management.csproj.CoreCompileInputs.cache
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental System Management.exe
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental System Management.pdb
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.Main.resources
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.CarReg.resources
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.customer.resources
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.Rental.resources
+C:\Users\SoNiC\Desktop\Rental System Management\obj\Debug\Rental_System_Management.Return.resources
